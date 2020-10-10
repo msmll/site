@@ -1,2 +1,2 @@
-# site
-This repository contains the source code files for the Marconi Society Machine Learning Laboratory.
+# marconimllab
+This repository contains the scripts for the Marconi Society Machine Learning Laboratory website.
