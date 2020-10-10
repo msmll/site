@@ -7,8 +7,7 @@ permalink: /
 ---
 
 The Marconi Society Machine Learning Laboratory is a research initiative at [netLabs!UG](http://www.netlabsug.org/),
-[Makerere University](https://www.mak.ac.ug/) that focuses on machine learning research in diverse areas including
-Health, Agriculture and Natural Language Processing.
+[Makerere University](https://www.mak.ac.ug/) that focuses on machine learning research in diverse areas including [Agriculture]({{ site.url }}{{ site.baseurl }}/research/#agriculture), [Health]({{ site.url }}{{ site.baseurl }}/research/#health) and [Natural Language Processing]({{ site.url }}{{ site.baseurl }}/research/#nlp)
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
