@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Makerere University that focuses on machine learning research in diverse areas including
   Health, Agriculture and Natural Language Processing.
 baseurl: ""
-url: "https://rifkatunda.github.io/marconimllab/"
+url: "https://msmll.github.io/site/"
 
 include:
   - .htaccess
