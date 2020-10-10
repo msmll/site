@@ -9,8 +9,8 @@ permalink: /research/
 # Research
 
 On this page, we present the projects that we have undertaken under the following fields: [Agriculture](#agriculture), [Health](#health) and [Natural Language Processing](#nlp). <br> Follow the project website for more details.
-<a class="anchor" name="agriculture"></a>
 
+<a class="anchor" name="agriculture"></a>
 ## Agriculture
 
 {% assign number_printed = 0 %}
