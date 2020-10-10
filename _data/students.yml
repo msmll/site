@@ -1,0 +1,23 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Betty Mirembe
+  photo: betty.jpg
+  info: Bachelor's Student
+  email: bettymirembe@gmail.com
+  number_educ: 1
+  education1: BSc. Degree in Telecommunications Engineering, Makerere University
+
+- name: Lateefa Shibah Tusuubira
+  photo: bio-photo.jpg
+  info: Bachelor's Student
+  email: holder@email.com
+  number_educ: 1
+  education1: BSc. Degree in Telecommunications Engineering, Makerere University

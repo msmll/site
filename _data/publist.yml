@@ -1,0 +1,9 @@
+- title: "A Deep Learning-based Detector for Brown Spot Disease in Passion Fruit Plant Leaves"
+  image: brownspot-image.jpg
+  description: We are employing state-of-the-art techniques in machine learning, and specifically deep learning, techniques at scale for object detection and classification to correctly determine the health status of passion fruit plants and provide an accurate diagnosis for positive detections.This work focuses on two major diseases woodiness (viral) and brown spot (fungal) diseases.
+  authors: A Katumba, M Bomera, C Mwikirize
+  link:
+    url: https://arxiv.org/abs/2007.14103
+    display: arxiv.org/abs/2007.14103
+  highlight: 1
+  news2:

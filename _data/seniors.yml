@@ -1,0 +1,29 @@
+- name: Andrew Katumba
+  photo: Andrew.png
+  info: Principal Researcher, MSMLL
+  interests: Computer Vision, Natural Language Processing, Photonics
+  email: andrewkatumba@cedat.mak.ac.ug
+  number_educ: 1
+  education1: Ph.D. Degree in Photonics Engineering, Photonics Research Group, Ghent University-imec, Ghent, Belgium
+
+- name: Cosmas Mwikirize
+  photo: cosmas.jpeg
+  info: Co-Principal Researcher, MSMLL
+  interests:
+  email: bmwikirize@cedat.mak.ac.ug
+  number_educ: 1
+  education1: Ph.D. Degree in Biomedical/Medical Engineering, Rutgers University-New Brunswick.
+
+- name: Hanifa Nabuuma
+  photo: bio-photo.jpg
+  info: Lecturer, Makerere University
+  email: hanifamukasa@gmail.com
+  number_educ: 1
+  education1: Ph.D. Electrical and Electronics Engineering, University of Manchester.
+
+- name: Jonathan Serugunda
+  photo: bio-photo.jpg
+  info: Head of Department, Electrical and Computer Engineering, Makerere University
+  email: holder@email.com
+  number_educ: 1
+  education1: PhD. Degree in Electrical and Electronic Engineering, University of Bristol, United Kingdom.
