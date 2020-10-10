@@ -1,0 +1,9 @@
+- title: "A Portable Deep Learning-based Platform for Passion Fruit Disease Identification"
+  image: passion1.jpg
+  description: Pests and diseases pose a key challenge to passion fruit farmers across the country. They lead to loss of investment as yields reduce and losses increases. As the majority of the farmers, including passion fruit farmers, in the country are smallholder farmers from low-income households, they do not have sufficient information and means to combat these challenges. Without the required knowledge about the health of their crops, farmers cannot intervene promptly to turn the situation around. This project addresses the problem of lack of a reliable, timely diagnostic platform for passion fruit diseases, proposing to develop a low-cost hand-held diagnostic device (based on low compute devices, specifically the raspberry) making use of state-of-the-art machine learning techniques for identification.
+  authors: A Katumba, M Bomera, C Mwikirize, G Namulondo
+  link:
+    url: https://arxiv.org/abs/2007.14103
+    display: arxiv.org/abs/2007.14103
+  highlight: 1
+  news2:

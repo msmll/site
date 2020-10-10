@@ -1,0 +1,19 @@
+- title: "Development of an Efficacious Patient Management System for Uganda using Machine Learning Techniques"
+  image: sars-cov-19.jpg
+  description: Patient management is a collective term to describe the series of steps involved in handling a patient at a health facility right from acquisition of laboratory samples from the patient(s) through chemo-testing and dissemination of test results to the patient (s) and /or any other stake holder involved to prescription and administration of treatment to the patient(s). This process is currently performed on manual basis that is significantly hinged on active human (health worker) participation and intelligence (tacit knowledge).
+  authors: D Okello, C Mwikirize, A Katumba, W Okello, M Bomera
+  link:
+    url: https://arxiv.org/abs/2007.14103
+    display: arxiv.org/abs/2007.14103
+  highlight: 1
+  news2:
+
+- title: "Real-time Tele-consultation for Cervical Cancer Screening Using a Machine Learning-enabled Mobile App."
+  image: tele-cancer.png
+  description: Patient management is a collective term to describe the series of steps involved in handling a patient at a health facility right from acquisition of laboratory samples from the patient(s) through chemo-testing and dissemination of test results to the patient (s) and /or any other stake holder involved to prescription and administration of treatment to the patient(s). This process is currently performed on manual basis that is significantly hinged on active human (health worker) participation and intelligence (tacit knowledge).
+  authors: H Nabuuma, C Mwikirize, A Katumba, W Okello, N Kalibala, M Bomera
+  link:
+    url: https://arxiv.org/abs/2007.14103
+    display: arxiv.org/abs/2007.14103
+  highlight: 1
+  news2:
