@@ -34,8 +34,8 @@
 
 - name: "This could be you!"
   photo: rock.jpg
-  info: See <a href="http://">openings</a> for more information.
-  email: holder@email.com
+  info: See <a href="https://ml.netlabsug.org/vacancies">Vacancies</a> for more information.
+  email: msmllaboratory@gmail.com
   number_educ: 0
   education1:
   education2:
