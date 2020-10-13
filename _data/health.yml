@@ -1,3 +1,13 @@
+- title: "Machine Learning-guided Screening of COVID-19 using Point-of-Care Ultrasound in Uganda"
+  image: holder.png
+  description: In the absence of a cure or vaccine for the novel coronavirus, early diagnosis and isolation of COVID-19 patients is critical to stemming community spread. Ideally, this would involve mass and regular testing of all persons, for which Uganda does not yet have the capacity. Therefore, testing resources have been focused on high-risk demographics and their contacts. Screening toward targeted testing of the general population is difficult because most cases are asymptomatic. It is thus plausible that many asymptomatic cases in the community are undetected, thus creating a risk for an infection avalanche. This project proposes the development of a smart point-of-care ultrasound-based solution for pre-emptive screening of COVID-19.
+  authors: J Serugunda, C Mwikirize, A Katumba
+  link:
+    url:
+    display: 
+  highlight: 1
+  news2:
+
 - title: "Development of an Efficacious Patient Management System for Uganda using Machine Learning Techniques"
   image: sars-cov-19.jpg
   description: Patient management is a collective term to describe the series of steps involved in handling a patient at a health facility right from acquisition of laboratory samples from the patient(s) through chemo-testing and dissemination of test results to the patient (s) and /or any other stake holder involved to prescription and administration of treatment to the patient(s). This process is currently performed on manual basis that is significantly hinged on active human (health worker) participation and intelligence (tacit knowledge).
@@ -15,5 +25,15 @@
   link:
     url: https://arxiv.org/abs/2007.14103
     display: arxiv.org/abs/2007.14103
+  highlight: 1
+  news2:
+
+- title: "Smart Portable Ultrasound System for Guidance of Minimally Invasive Procedures"
+  image: holder.png
+  description: Non-Communicable Diseases (NCDs) such as cardiovascular disease, diabetes and cancer are a major burden in Uganda, increasing the need for requisite diagnosis/therapeutic procedures such as vascular interventions and biopsies. These procedures involve  percutaneous needle insertion, and their success relies on accurate needle localization. Ultrasound imaging is the gold-standard for visualization of needle progress vis-à-vis patient anatomy. However, under ultrasound, needle localization is hindered by signal attenuation, limited field of view and artifacts. Inaccurate needle localization reduces procedure efficacy and can cause injury. In this project, these problems are addressed by developing a low-cost imaging system for diagnosis/treatment of NCDs that uses machine learning for needle localization.
+  authors: C Mwikirize, A Katumba, R Byanyima, J Nabende, I Hacihaliloglu
+  link:
+    url:
+    display:
   highlight: 1
   news2:
