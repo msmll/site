@@ -79,7 +79,7 @@ firstp {
 }
 
 
-/* Carusel */
+/* Carousel */
 .carousel {
     border-radius: 3px 3px 3px 3px;
     margin-bottom: 20px;
@@ -93,4 +93,15 @@ firstp {
     position: absolute;
     left: 0px;
     top: -130px;
+}
+
+/* Infrastructure Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 2px solid #e7e7e7 !important;
+  padding: 12px;
 }
