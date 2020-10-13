@@ -43,7 +43,7 @@ The Marconi Laboratory through the support of the Marconi Society and the Makere
   </tr>
   <tr>
     <td>Nvidia Titan V</td>
-    <td>1</td>
+    <td>2</td>
     <td>Core Clock: 1200MHz<br>CUDA Cores:5120<br>Boost Clock: 1455MHz<br>Memory Clock: 1.7Gbps HBM2<br>Memory Bus Width: 3072-bit<br>Memory Bandwidth: 653GB/sec<br>VRAM: 12GB<br>L2 Cache: 4.5MB</td>
   </tr>
   <tr>
