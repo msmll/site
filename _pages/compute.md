@@ -29,12 +29,12 @@ The Marconi Laboratory through the support of the Marconi Society and the Makere
   <tr>
     <td>Dell PowerEdge R730 Server</td>
     <td>2</td>
-    <td>128GB RAM	<br>Intel Xeon 20CPUs</td>
+    <td>128GB RAM	<br>2TB HDD<br>Intel Xeon 20CPUs</td>
   </tr>
   <tr>
     <td>Dell PowerEdge R730 Server</td>
     <td>1</td>
-    <td>32GB RAM<br>Intel Xeon 20CPUs</td>
+    <td>32GB RAM<br>2TB HDD<br>Intel Xeon 20CPUs</td>
   </tr>
   <tr>
     <td>Nvidia GeFORCE GTX 1080Ti Founders Edition</td>
@@ -45,11 +45,6 @@ The Marconi Laboratory through the support of the Marconi Society and the Makere
     <td>Nvidia Titan V</td>
     <td>2</td>
     <td>Core Clock: 1200MHz<br>CUDA Cores:5120<br>Boost Clock: 1455MHz<br>Memory Clock: 1.7Gbps HBM2<br>Memory Bus Width: 3072-bit<br>Memory Bandwidth: 653GB/sec<br>VRAM: 12GB<br>L2 Cache: 4.5MB</td>
-  </tr>
-  <tr>
-    <td>Hard Disk Drive (HDD)</td>
-    <td>2</td>
-    <td>Memory: 2TB</td>
   </tr>
 </tbody>
 </table>
