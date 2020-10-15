@@ -46,5 +46,10 @@ The Marconi Laboratory through the support of the Marconi Society and the Makere
     <td>2</td>
     <td>Core Clock: 1200MHz<br>CUDA Cores:5120<br>Boost Clock: 1455MHz<br>Memory Clock: 1.7Gbps HBM2<br>Memory Bus Width: 3072-bit<br>Memory Bandwidth: 653GB/sec<br>VRAM: 12GB<br>L2 Cache: 4.5MB</td>
   </tr>
+  <tr>
+  <td>HP Z2 Tower Workstation</td>
+  <td>1</td>
+  <td>64 GB DDR4-2666 ECC SDRAM<br>2 PCIe slots<br>Intel Xeon processor<br>Intel C246</td>
+  </tr>
 </tbody>
 </table>
