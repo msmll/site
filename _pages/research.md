@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-On this page, we present the projects that we have undertaken under the following fields: [Agriculture](#agriculture), [Health](#health) and [Natural Language Processing](#nlp). <br> Follow the project website for more details.
+On this page, we present the projects that we have undertaken under the following fields: [Agriculture](#agriculture), [Health](#health), [Natural Language Processing](#nlp) and [Neuromorphic Computing](#nmc). Follow the project website for more details.
 
 <a class="anchor" name="agriculture"></a>
 ## Agriculture
@@ -90,3 +90,7 @@ On this page, we present the projects that we have undertaken under the followin
 
 <a class="anchor" name="nlp"></a>
 ## Natural Language Processing
+
+
+<a class="anchor" name="nmc"></a>
+## Neuromorphic Computing
