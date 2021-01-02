@@ -47,5 +47,5 @@ We are grateful for funding and support from [Marconi Society](https://marconiso
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Marconi.png" style="width: 170px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cropped-netLabsUG-small.png" style="width: 170px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mak-logo-sm.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ai.jpeg" style="width: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ai.png" style="width: 70px">
 </figure>
