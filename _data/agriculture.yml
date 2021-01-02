@@ -4,6 +4,16 @@
   authors: A Katumba, M Bomera, C Mwikirize, G Namulondo
   link:
     url: http://katunda.io
-    display: http://katunda.io
+    display: katunda.io
+  highlight: 1
+  news2:
+
+- title: "Development of Machine Learning Datasets for Crop Pest and Disease Diagnosis based on Crop Imagery and Spectrometry Data"
+  image: holder.png
+  description: The project aims to deliver open, accessible and quality machine learning datasets for crop pests and disease diagnosis based on crop imagery and spectrometry data from Uganda, Tanzania, Namibia and Ghana.
+  authors: A Katumba, Makerere AI Research Lab
+  link:
+    url: https://lacunafund.org/agriculture/
+    display: lacunafund.org/agriculture
   highlight: 1
   news2:

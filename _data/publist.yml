@@ -7,3 +7,13 @@
     display: arxiv.org/abs/2007.14103
   highlight: 1
   news2:
+
+- title: "Agriculture Keywords Dataset"
+  image: holder.png
+  description: This dataset consists of 193 agricultural keywords in English and Luganda. 64 keywords are in English and 129 keywords are in Luganda.
+  authors: J Mukiibi, C Babirye, A Katumba, J Nakatumba
+  link:
+    url: http://doi.org/10.5281/zenodo.4347308
+    display: doi.org/10.5281/zenodo.4347308
+  highlight:
+  news2:

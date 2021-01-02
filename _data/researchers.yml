@@ -32,6 +32,13 @@
   education1: BSc. Degree in Mechanical Engineering, Makerere University, Kampala, Uganda.
   education2:
 
+- name: Ben Wycliff Mugalu
+  photo: bio-photo.jpg
+  info: Research Assistant
+  email: ben12wycliff@gmail.com
+  number_educ: 1
+  education1: Bsc. Degree in Computer Engineering, Makerere University, Kampala, Uganda.
+
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="https://ml.netlabsug.org/vacancies">Vacancies</a> for more information.
