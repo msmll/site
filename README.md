@@ -25,4 +25,4 @@ _**_data**_ folder contains `.yml` files containing data for the different compo
  _**_images**_ folder contains all the image files used for the website including the project thumbnails, team profile pictures,
  logos etc.
  
- **CNAME** file that links this repository to the <ml.netlabsug.org> URL.
+ _**CNAME**_ file that links this repository to the [ml.netlabsug.org](ml.netlabsug.org) URL.
