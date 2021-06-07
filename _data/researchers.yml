@@ -32,6 +32,15 @@
   education1: BSc. Degree in Mechanical Engineering, Makerere University, Kampala, Uganda.
   education2:
 
+- name: Abraham Kakooza Jerry
+  photo: jerry.jpg
+  info: Graduate Research Assistant, The Marconi Society ML Lab
+  interests: Time Series.
+  email: abrahamkakooza@gmail.com
+  number_educ: 1
+  education1: BSc. Degree in Telecommunications Engineering, Makerere University, Kampala, Uganda.
+  education2:
+
 - name: Ben Wycliff Mugalu
   photo: ben.jpeg
   info: Research Assistant
