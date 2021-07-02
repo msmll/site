@@ -43,7 +43,7 @@ The Marconi Society Machine Learning Laboratory is a research initiative at [net
 
 We are grateful for funding and support from [Marconi Society](https://marconisociety.org/), [Makerere University](https://www.mak.ac.ug/), [netLabs!UG](http://www.netlabsug.org/),[AI for Social Good Workshop, Google](https://sites.google.com/view/aiforsocialgoodworkshop/home) and Alpha Intelligence.
 
-<figure class="fourth">
+<figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Marconi.png" style="width: 170px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cropped-netLabsUG-small.png" style="width: 170px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mak-logo-sm.png" style="width: 100px">
